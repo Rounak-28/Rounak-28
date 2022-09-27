@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounak-28&label=Profile%20views&color=0e75b6&style=flat" alt="rounak-28" /> </p>
-<img align="center" alt="holopin" width="400" src="https://holopin.io/api/user/board?user=rounak_28">
+<img align="center" alt="holopin" width="400" src="https://holopin.io/api/user/board?user=rounak_28/cl8jyx3c5346209kxqxv4ztrl">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rounak-28" alt="rounak-28" /></a> </p>
 
