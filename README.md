@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Rounak-28/Rounak-28/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <h1 align="center">Hi 👋, I'm Rounak Kumbhakar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
