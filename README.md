@@ -7,10 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounak-28&label=Profile%20views&color=0e75b6&style=flat" alt="rounak-28" /> </p>
 
-<img align="center" alt="holopin" width="400" src="https://holopin.io/api/user/board?user=rounak_28">
-
-
-
 <p align="left"> <a href="https://twitter.com/rounak_28" target="blank"><img src="https://img.shields.io/twitter/follow/rounak_28?logo=twitter&style=for-the-badge" alt="rounak_28" /></a> </p>
 
 - 🌱 I’m currently learning **Node, Next, typeScript**
