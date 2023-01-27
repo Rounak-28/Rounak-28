@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Node, Next, typeScript**
 
-- 💬 Ask me about **React, JavaScript, web development**
-
 - 📫 How to reach me **rounakkumbhakar2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
