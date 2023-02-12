@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rounak Kumbhakar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">Web Developer and Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounak-28&label=Profile%20views&color=0e75b6&style=flat" alt="rounak-28" /> </p>
 
