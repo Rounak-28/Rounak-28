@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rounak_28" target="blank"><img src="https://img.shields.io/twitter/follow/rounak_28?logo=twitter&style=for-the-badge" alt="rounak_28" /></a> </p>
 
-- 🌱 I’m currently learning **Node, Next, typeScript**
+- 🌱 I’m currently learning **Machine learing and Neural networks**
 
 - 📫 How to reach me **rounakkumbhakar2004@gmail.com**
 
